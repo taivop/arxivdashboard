@@ -1,0 +1,15 @@
+.tt, .twdiv, #titdiv, #flashesdiv, #sbox, #pagebar, .dllinks, .msg, #loadmorebtn, #recommend-time-choice {
+  display: none;
+}
+
+.ts {
+  font-size: 36px;
+}
+
+.apaper {
+  display: none;
+}
+
+.apaper:nth-child(2), .apaper:nth-child(3), .apaper:nth-child(4) {
+  display: block;
+}

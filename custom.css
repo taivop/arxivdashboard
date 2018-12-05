@@ -6,10 +6,18 @@
   font-size: 36px;
 }
 
+.paperdesc {
+  width: 980px;
+}
+
 .apaper {
   display: none;
 }
 
 .apaper:nth-child(2), .apaper:nth-child(3), .apaper:nth-child(4) {
   display: block;
+}
+
+a[href="https://github.com/karpathy/arxiv-sanity-preserver"] { 
+  display: none;
 }

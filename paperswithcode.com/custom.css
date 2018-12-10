@@ -1,0 +1,24 @@
+.navbar, .list-title, .col small, a.btn {
+  display: none;
+}
+
+.metadata small {
+  display: block;
+}
+
+.row h5 {
+  font-size: 36px;
+}
+
+.stars {
+  font-size: 24px;
+}
+
+.list-container {
+  margin: 0;
+}
+
+.col {
+  margin-top: 0;
+  margin-bottom: 0;
+}

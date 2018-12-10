@@ -7,4 +7,4 @@ var shufflePapers = function() {
     }
 }
 
-var intervalID = window.setInterval(shufflePapers, 30000);
+var intervalID = window.setInterval(shufflePapers, 37000);

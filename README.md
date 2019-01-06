@@ -1,3 +1,7 @@
+# Arxiv dashboard
+
+Show papers from [Arxiv-sanity](http://arxiv-sanity.com/) or [Papers with Code](https://www.paperswithcode.com/) on your TV dashboard. Introductory blog post [here](https://taivo.ai/mlexplosion/).
+
 ### Installation
 
 Download chrome plugins from:
